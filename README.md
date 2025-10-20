@@ -105,14 +105,6 @@ crow_auth_project/
 - **Docker** - Containerization
 - **Swagger/OpenAPI** - API documentation
 
-## Use Cases
-
-Perfect for:
-
-- Building microservices in C++
-- Prototyping authenticated APIs
-- Learning CrowCpp framework
-- Starting new projects quickly
 
 ## 📖 Documentation
 
@@ -123,3 +115,4 @@ Perfect for:
 ---
 
 **Ready to build your next API?** This template provides everything you need to start developing authenticated services with CrowCpp. Fork, customize, and deploy! 
+By : Mortza Mansory
